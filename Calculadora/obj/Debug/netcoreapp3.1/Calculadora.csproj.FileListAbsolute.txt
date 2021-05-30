@@ -1,0 +1,15 @@
+C:\Users\Camila\source\repos\Calculadora_Solucion\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.exe
+C:\Users\Camila\source\repos\Calculadora_Solucion\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.deps.json
+C:\Users\Camila\source\repos\Calculadora_Solucion\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.json
+C:\Users\Camila\source\repos\Calculadora_Solucion\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.dev.json
+C:\Users\Camila\source\repos\Calculadora_Solucion\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.dll
+C:\Users\Camila\source\repos\Calculadora_Solucion\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.pdb
+C:\Users\Camila\source\repos\Calculadora_Solucion\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csprojAssemblyReference.cache
+C:\Users\Camila\source\repos\Calculadora_Solucion\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.Form1.resources
+C:\Users\Camila\source\repos\Calculadora_Solucion\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csproj.GenerateResource.cache
+C:\Users\Camila\source\repos\Calculadora_Solucion\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfoInputs.cache
+C:\Users\Camila\source\repos\Calculadora_Solucion\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfo.cs
+C:\Users\Camila\source\repos\Calculadora_Solucion\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Camila\source\repos\Calculadora_Solucion\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.dll
+C:\Users\Camila\source\repos\Calculadora_Solucion\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.pdb
+C:\Users\Camila\source\repos\Calculadora_Solucion\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.genruntimeconfig.cache
